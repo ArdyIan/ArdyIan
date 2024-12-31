@@ -5,32 +5,21 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## About Me
 
 - 🌱 I’m currently learning React JS.
-- 📫 How to reach me: [provide your contact information or social media links].
+- 📫 How to reach me: https://www.instagram.com/ardy_iann?utm_source=qr&igsh=MWN3NTV0dGFpempncQ==.
 
 ## My Skills
 
 - **Languages:** JavaScript, Dart
 - **Frameworks:** React JS, Flutter
-- **Tools:** 
-- **Other:** [mention any other relevant skills, e.g., DevOps, Cloud Services, Machine Learning]
-
-## Projects
-
-Here are some of my favorite projects:
-
-- [Project Name](link to project): Brief description of the project.
-- [Project Name](link to project): Brief description of the project.
-- [Project Name](link to project): Brief description of the project.
+- **Tools:** Git, VS Code, Figma
+- **Other:** Mobile Developer, Web Developer
 
 ## GitHub Stats
 
-![ArdyIan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdyIan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdyIan&layout=compact&theme=radical)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on something interesting.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/adityadwisuryohardi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adithardiyanto0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-instagram](https://www.instagram.com/ardy_iann?utm_source=qr&igsh=MWN3NTV0dGFpempncQ==))
